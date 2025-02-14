@@ -1,0 +1,7 @@
+{
+	"pack": {
+		"description": "Addon for faithful 32x based on Watch of Undying by creep",
+		"pack_format": 42,
+		"supported_formats": [4, 42]
+	}
+}
