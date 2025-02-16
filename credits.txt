@@ -1,0 +1,7 @@
+https://faithfulpack.net
+The original pack from creep: 
+    https://modrinth.com/resourcepack/watch-of-undying
+    https://www.curseforge.com/minecraft/texture-packs/watch-of-undying
+Texture:
+    -eva gelion
+    -BellPepperBrian
