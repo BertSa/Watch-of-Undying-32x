@@ -1,7 +1,7 @@
 {
 	"pack": {
-		"description": "Addon for faithful 32x based on Watch of Undying by creep",
-		"pack_format": 42,
-		"supported_formats": [4, 42]
+		"description": "\u00a76Addon for Faithful 32x based on Watch of Undying by creep\n\u00a7eDownload on Faithfulpack.net",
+		"pack_format": 46,
+		"supported_formats": [4, 46]
 	}
 }
